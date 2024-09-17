@@ -1,0 +1,27 @@
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\bin\Debug\netstandard2.0\TaskLib.deps.json
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\bin\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\bin\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.csprojAssemblyReference.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfoInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfo.cs
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.csproj.CoreCompileInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\Task1\TaskLib\obj\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\bin\Debug\netstandard2.0\TaskLib.deps.json
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\bin\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\bin\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.csprojAssemblyReference.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfoInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfo.cs
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.csproj.CoreCompileInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG Task 2\TaskLib\obj\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\bin\Debug\netstandard2.0\TaskLib.deps.json
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\bin\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\bin\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfoInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.AssemblyInfo.cs
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.csproj.CoreCompileInputs.cache
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.dll
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.pdb
+D:\VARSITY\YEAR 2\Semester 2\PROG6212\POE\PROG_TASK_3\PROG_TASK_3\TaskLib\obj\Debug\netstandard2.0\TaskLib.csprojAssemblyReference.cache

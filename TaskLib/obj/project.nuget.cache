@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zl8DBwOVu+nz+U0pODmy/HCdlN5myOm+MV1oZIfmazBwBgvLyQ71HzC2w+/tOX19ZDj7Sk9gp1yuQSp80tvHXg==",
+  "success": true,
+  "projectFilePath": "D:\\VARSITY\\YEAR 2\\Semester 2\\PROG6212\\POE\\PROG_TASK_3\\PROG_TASK_3\\TaskLib\\TaskLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tegra L. Balonga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tegra L. Balonga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
